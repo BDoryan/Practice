@@ -1,0 +1,6 @@
+main: antox11200.practice.fr.Practice
+author: Antox11200
+name: PracticeEz
+version: 0.0.1
+commands:
+  practice:
